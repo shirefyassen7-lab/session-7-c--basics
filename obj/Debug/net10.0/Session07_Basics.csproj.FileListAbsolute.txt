@@ -1,0 +1,14 @@
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\bin\Debug\net10.0\Session07_Basics.exe
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\bin\Debug\net10.0\Session07_Basics.deps.json
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\bin\Debug\net10.0\Session07_Basics.runtimeconfig.json
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\bin\Debug\net10.0\Session07_Basics.dll
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\bin\Debug\net10.0\Session07_Basics.pdb
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\obj\Debug\net10.0\Session07_Basics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\obj\Debug\net10.0\Session07_Basics.AssemblyInfoInputs.cache
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\obj\Debug\net10.0\Session07_Basics.AssemblyInfo.cs
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\obj\Debug\net10.0\Session07_Basics.csproj.CoreCompileInputs.cache
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\obj\Debug\net10.0\Session07_Basics.dll
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\obj\Debug\net10.0\refint\Session07_Basics.dll
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\obj\Debug\net10.0\Session07_Basics.pdb
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\obj\Debug\net10.0\Session07_Basics.genruntimeconfig.cache
+E:\Hamdy\INSTANT\Round 36\Sun-Wed\Session_07_CSharp_Basics_Memory_Model\SessionProject\Session07_Basics\obj\Debug\net10.0\ref\Session07_Basics.dll
