@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "E3baNejcBqU=",
   "success": true,
   "projectFilePath": "E:\\Hamdy\\INSTANT\\Round 36\\Sun-Wed\\Session_07_CSharp_Basics_Memory_Model\\SessionProject\\Session07_Basics\\Session07_Basics.csproj",
+=======
+  "dgSpecHash": "U1gCVOyZu0g=",
+  "success": true,
+  "projectFilePath": "E:\\Session_07_CSharp_Basics_Memory_Model\\Session_07_CSharp_Basics_Memory_Model\\SessionProject\\session7basics\\session7basics.csproj",
+>>>>>>> 0eaeaaf39b8e53cdadfc2c0bdf10cd41a9893dc1
   "expectedPackageFiles": [],
   "logs": []
 }

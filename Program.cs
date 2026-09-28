@@ -1,10 +1,20 @@
+<<<<<<< HEAD
 ﻿namespace Session07_Basics
 {
 
+=======
+﻿using System.ComponentModel.Design;
+using System.Diagnostics;
+using System.Threading.Channels;
+
+namespace session07
+{
+>>>>>>> 0eaeaaf39b8e53cdadfc2c0bdf10cd41a9893dc1
     internal class Program
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             //var firstName = "Instant";
             //var lastName = "Academy";
 
@@ -124,6 +134,55 @@
             //    Console.WriteLine("Message is null , please check your code/message");
             //}
             Console.WriteLine(result);
+=======
+
+            int secret = 66;
+            int guessleft = 3;
+
+
+            while (guessleft > 0)
+            {
+                Console.WriteLine($"guess the secret {guessleft} tries left : ");
+                int guess = Convert.ToInt32(Console.ReadLine());
+
+                if (guess == secret)
+                {
+                    Console.WriteLine("its true");
+                    break;
+                }
+                else if (guess < secret)
+                {
+                    Console.WriteLine("too low");
+                }
+                else
+                    Console.WriteLine("too high");
+
+                guessleft--;
+            }
+            if (guessleft == 0)
+                Console.WriteLine("game over");
+
+
+
+
+
+
+            string massage = null;
+            Console.WriteLine(massage?.Length);
+
+            for (int i = 1; i <= 20; i++)
+            {
+                if (i % 3 == 0 && i % 5 == 0)
+                    Console.WriteLine("fizzbuzz");
+                else if (i % 3 == 0)
+                    Console.WriteLine("fizz");
+                else if (i % 5 == 0)
+                    Console.WriteLine("buzz");
+                else Console.WriteLine(i);
+            }
+
+
+>>>>>>> 0eaeaaf39b8e53cdadfc2c0bdf10cd41a9893dc1
         }
     }
 }
